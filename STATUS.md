@@ -18,5 +18,5 @@
 
 ## 下一步
 
-- 已初始化 `main` 分支，待创建公开仓库并推送当前项目。
-- 用远程仓库状态核对推送结果。
+- 已创建公开仓库：`https://github.com/llser66/y2k-microcar-showroom`。
+- `main` 分支已推送，远程跟踪已建立。
