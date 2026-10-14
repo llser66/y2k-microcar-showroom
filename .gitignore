@@ -1,0 +1,11 @@
+node_modules/
+dist/
+*.tsbuildinfo
+round2-preview.png
+.codex-browser-profile/
+.netlify/
+.netlify-cli-appdata/
+.netlify-cli-data/
+.env
+.env.*
+!.env.example
